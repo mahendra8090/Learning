@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAuthentication", "Web
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{720DA786-CDD1-4090-AC47-6A7AB0C980DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS", "OOPS\OOPS.csproj", "{EFC47941-200C-4BD0-AAE1-A9B93C3E568D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{720DA786-CDD1-4090-AC47-6A7AB0C980DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{720DA786-CDD1-4090-AC47-6A7AB0C980DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{720DA786-CDD1-4090-AC47-6A7AB0C980DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC47941-200C-4BD0-AAE1-A9B93C3E568D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC47941-200C-4BD0-AAE1-A9B93C3E568D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC47941-200C-4BD0-AAE1-A9B93C3E568D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC47941-200C-4BD0-AAE1-A9B93C3E568D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
