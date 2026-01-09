@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadAndAysncProgramm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAuthentication", "WebApiAuthentication\WebApiAuthentication.csproj", "{F98C1032-DF39-4205-A043-8BE8DACB122B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{720DA786-CDD1-4090-AC47-6A7AB0C980DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F98C1032-DF39-4205-A043-8BE8DACB122B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F98C1032-DF39-4205-A043-8BE8DACB122B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F98C1032-DF39-4205-A043-8BE8DACB122B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720DA786-CDD1-4090-AC47-6A7AB0C980DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720DA786-CDD1-4090-AC47-6A7AB0C980DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720DA786-CDD1-4090-AC47-6A7AB0C980DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720DA786-CDD1-4090-AC47-6A7AB0C980DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
