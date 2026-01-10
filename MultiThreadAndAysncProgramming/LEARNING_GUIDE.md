@@ -3,9 +3,41 @@
 ## Introduction
 
 ### 1. Introduction
-- Overview of multithreading and async programming
-- Historical context and evolution
-- Relevance in modern applications
+
+#### ?? Overview of Multithreading and Async Programming
+- **Multithreading**: Ek application me multiple threads ka use karke parallel kaam karna.
+- CPU ke multiple cores ka effective use hota hai.
+- **Async Programming**: Non-blocking execution, jisme long-running tasks background me chalte hain.
+- C# me async mainly `Task`, `async` aur `await` ke through hota hai.
+- Goal: **Performance, responsiveness aur scalability** improve karna.
+
+---
+
+#### ?? Historical Context and Evolution
+- **C/C++ Era**: OS-level threads (`pthread`, `CreateThread`), manual memory & synchronization ? complex aur unsafe.
+- **Early .NET**: Single-threaded apps, long tasks se UI freeze hoti thi.
+- **Thread Class**: Manual thread creation, lifecycle management developer ke haath me.
+- **ThreadPool**: Thread reuse, better performance but limited control.
+- **APM / EAP**: Old async patterns (Begin-End, Events), code unreadable aur hard to maintain.
+- **TPL (Task Parallel Library)**: High-level abstraction, better exception handling.
+- **Async/Await**: Modern, readable, non-blocking programming model (industry standard).
+
+---
+
+#### ?? Relevance in Modern Applications
+- **Web Apps (ASP.NET Core)**: High concurrency aur scalability.
+- **Desktop Apps (WPF/WinForms)**: UI responsiveness maintain karna.
+- **Cloud & Microservices**: Efficient I/O handling, better throughput.
+- **Real-time & Mobile Apps**: Smooth user experience, fast async operations.
+
+---
+
+#### ?? Summary
+- Purane methods complex aur error-prone the.
+- C# ne multithreading ko safe aur developer-friendly banaya.
+- Modern C# me **async/await + Task-based programming best practice** hai.
+
+---
 
 ### 2. CPU, Thread and Thread Scheduler
 - Understanding CPU cores and logical processors
