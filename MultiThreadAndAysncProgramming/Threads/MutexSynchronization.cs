@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThreadAndAysncProgramming
+namespace MultiThreadAndAysncProgramming.Threads
 {
     // This Class demonstrates mutex synchronization in C#.
     // A mutex is a synchronization primitive that can be used to protect shared data from being simultaneously accessed by multiple threads.

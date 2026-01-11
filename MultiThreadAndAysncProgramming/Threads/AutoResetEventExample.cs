@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThreadAndAysncProgramming
+namespace MultiThreadAndAysncProgramming.Threads
 {
     // This Class demonstrates AutoResetEvent synchronization in C#.
     // An AutoResetEvent is a synchronization primitive that can be used to signal between threads.

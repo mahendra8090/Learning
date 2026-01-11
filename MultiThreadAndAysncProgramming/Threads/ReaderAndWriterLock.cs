@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThreadAndAysncProgramming
+namespace MultiThreadAndAysncProgramming.Threads
 {
     /*
      ReaderLock - A ReaderLock allows multiple threads to read a shared resource concurrently,

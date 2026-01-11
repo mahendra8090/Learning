@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThreadAndAysncProgramming
+namespace MultiThreadAndAysncProgramming.Threads
 {
     // This Class demonstrates ManualResetEvent synchronization in C#.
     // A ManualResetEvent is a synchronization primitive that can be used to signal between threads.

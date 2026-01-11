@@ -5,7 +5,7 @@ using System.Runtime.InteropServices.Marshalling;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThreadAndAysncProgramming
+namespace MultiThreadAndAysncProgramming.Threads
 {
     // This Class demonstrates semaphore synchronization in C#.
     // A semaphore is a synchronization primitive that can be used to limit the number of threads that can access a shared resource concurrently.

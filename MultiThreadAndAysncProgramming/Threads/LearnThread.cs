@@ -4,8 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiThreadAndAysncProgramming
+namespace MultiThreadAndAysncProgramming.Threads
 {
+    /*
+     Thread mainly 2 purpose solve karte hi
+     1. Divide and Conquer
+     2. Offloading Long Running Task
+     */
     public class LearnThread
     {
         Queue<string> inputQueue = new Queue<string>();
